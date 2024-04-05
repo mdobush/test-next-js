@@ -45,7 +45,7 @@ module.exports = {
     // @default true
     // optimizeServerBuild: true
   },
-
+  password: "zsDwfaZFWesdfdihwe",
   // If you need to proxy some URLs to an origin instead of your Next.js app, you can configure the origins here:
   origins: [
     {
